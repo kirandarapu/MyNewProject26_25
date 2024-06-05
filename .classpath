@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Downloads/selenium-server-4.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/commons-codec-1.16.1.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/commons-compress-1.26.1.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/docker-java-3.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/docker-java-api-3.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/docker-java-core-3.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/docker-java-transport-3.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/docker-java-transport-httpclient5-3.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Local DickC/WebDriverManager/webdrivermanager-5.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Downloads/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Downloads/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
